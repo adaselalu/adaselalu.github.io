@@ -9,6 +9,8 @@ author: Admin
 
 Pernah nggak sih kamu melihat atau mengalami hal-hal yang bikin kita geleng-geleng kepala dan mikir, "Kok bisa ya?" Nah, di masyarakat kita, ternyata banyak lho hal-hal bego yang sering terjadi. Mulai dari kebiasaan kecil yang sepele sampai yang bisa bikin kita kesel banget. Yuk, kita bahas beberapa hal bego yang sering kita temui sehari-hari!
 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/153024485&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/tv-girl" title="TV Girl" target="_blank" style="color: #cccccc; text-decoration: none;">TV Girl</a> · <a href="https://soundcloud.com/tv-girl/09-lovers-rock" title="Lovers Rock" target="_blank" style="color: #cccccc; text-decoration: none;">Lovers Rock</a></div>
+
 <H2>Apa aja tuh?</H2>
 
 <H3>1.Bentrok Suporter Sepak Bola</H3>
