@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Download Game Java Asphalt 6 Adrenaline
-subtitle: mainnkan game Asphalt 6 Adrenaline
 tags: [java]
 comments: true
 mathjax: true
@@ -18,9 +17,9 @@ Jika Anda penggemar game balap, "Asphalt 6: Adrenaline" mungkin sudah tidak asin
 
 <H3>Unduh File Game</H3>
 <ul>
- <li>[240x320 Asphalt 6:Adrenaline](http://ouo.io/qs/OzRuKBTK?s=https://www.mediafire.com/file/a8kvs88hjnd0h53/240x320-Asphalt6-Adrenaline_s40v6-X2-00.jar/file)</li>
- <li>[320x240 Asphalt 6:Adrenaline](http://ouo.io/qs/OzRuKBTK?s=https://www.mediafire.com/file/803fbg0cnbt10g3/320x240Asphalt6-Adrenaline_s40v6-C3-00.jar/file)</li>
- <li>[320x480 Asphalt 6:Adrenaline](http://ouo.io/qs/OzRuKBTK?s=https://www.mediafire.com/file/psu8roakdriy07z/320x480Asphalt6Adrenaline_SamSung_GT_S5292_EN_IGP_BFLL_TS_104.jar/file)</li>
- <li>[360x640 Asphalt 6:Adrenaline](http://ouo.io/qs/OzRuKBTK?s=https://www.mediafire.com/file/tboug9hbjt0zh0t/360x640Asphalt6_Nokia_5800_EN_FR_DE_IT_ES_BR_PT_PL_RU_IGP_TS_120.jar/file)</li>
- <li>[480x800 Asphalt 6:Adrenaline](http://ouo.io/qs/OzRuKBTK?s=https://www.mediafire.com/file/6up5qm15rs3d3le/480x800Asphalt6_Samsung_GT_S8000_EN_IGP_EU_TS_103.jar/file)</li>
+	<li><a href="http://ouo.io/qs/OzRuKBTK?s=https://www.mediafire.com/file/a8kvs88hjnd0h53/240x320-Asphalt6-Adrenaline_s40v6-X2-00.jar/file" >240x320 Asphalt 6:Adrenaline </a></li>
+	<li><a href="http://ouo.io/qs/OzRuKBTK?s=https://www.mediafire.com/file/803fbg0cnbt10g3/320x240Asphalt6-Adrenaline_s40v6-C3-00.jar/file" >320x240 Asphalt 6:Adrenaline </a></li>
+	<li><a href="http://ouo.io/qs/OzRuKBTK?s=https://www.mediafire.com/file/psu8roakdriy07z/320x480Asphalt6Adrenaline_SamSung_GT_S5292_EN_IGP_BFLL_TS_104.jar/file" >320x480 Asphalt 6:Adrenaline </a></li>
+	<li><a href="http://ouo.io/qs/OzRuKBTK?s=https://www.mediafire.com/file/tboug9hbjt0zh0t/360x640Asphalt6_Nokia_5800_EN_FR_DE_IT_ES_BR_PT_PL_RU_IGP_TS_120.jar/file" >360x640 Asphalt 6:Adrenaline </a></li>
+	<li><a href="http://ouo.io/qs/OzRuKBTK?s=https://www.mediafire.com/file/6up5qm15rs3d3le/480x800Asphalt6_Samsung_GT_S8000_EN_IGP_EU_TS_103.jar/file" >480x800 Asphalt 6:Adrenaline </a></li>
  </ul>
