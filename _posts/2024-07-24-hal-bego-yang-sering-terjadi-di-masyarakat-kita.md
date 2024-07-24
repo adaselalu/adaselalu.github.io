@@ -7,8 +7,6 @@ mathjax: true
 author: Admin
 ---
 
-<H1>Hal-Hal Bego yang Sering Terjadi di Masyarakat Kita</H1>
-
 Pernah nggak sih kamu melihat atau mengalami hal-hal yang bikin kita geleng-geleng kepala dan mikir, "Kok bisa ya?" Nah, di masyarakat kita, ternyata banyak lho hal-hal bego yang sering terjadi. Mulai dari kebiasaan kecil yang sepele sampai yang bisa bikin kita kesel banget. Yuk, kita bahas beberapa hal bego yang sering kita temui sehari-hari!
 
 <H2>Apa aja tuh?</H2>
